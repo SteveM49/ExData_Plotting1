@@ -1,3 +1,21 @@
+## Forward to edition on SteveM49/ExData_Plotting1.
+
+This is a submission for Coursera's Data Analysis Specialization
+set 4: Exploratory Data Analysis.
+
+In particular it is submitted as a requirement (Project 1) of that class due Sunday September 13, 2015.
+
+The contents of the repository are:
+* README (this document)
+* EDA_Project1.R a program that does a complete response to the assignment
+* ReadCleanAndWriteHPC.R the section of the complete response that reads the dataset household_power_consumption.txt, cleans it by adding a datetime variable, trims it to the two days of interest, and writes the result to hpc.csv.
+* plot1.R reads hpc.csv and then produces plot1.png
+* plot2.R reads hpc.csv and then produces plot2.png
+* plot3.R reads hpc.csv and then produces plot3.png
+* plot4.R reads hpc.csv and then produces plot4.png
+
+Professor Peng's Introduction follows.
+
 ## Introduction
 
 This assignment uses data from
